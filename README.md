@@ -32,7 +32,7 @@ The **Crypto Tracker App** is a simple, user-friendly web application that provi
 
 ### 🔹 Clone the Repository  
 ```sh
-git clone https://github.com/pratikshasingh104/crypto-tracker-app.git
+git clone https://github.com/singh-pratiksha/crypto-tracker-app.git
 ```
 
 ### 🔹 Navigate to the Project Folder  
@@ -72,15 +72,15 @@ We welcome contributions! Follow these steps to get started:
 
 If you encounter any issues or have suggestions:  
 
-- Open an issue in the **[Issues](https://github.com/pratikshasingh104/crypto-tracker-app/issues)** section  
-- Discuss in the **[GitHub Discussions](https://github.com/pratikshasingh104/crypto-tracker-app/discussions)**  
+- Open an issue in the **[Issues](https://github.com/singh-pratiksha/crypto-tracker-app/issues)** section  
+- Discuss in the **[GitHub Discussions](https://github.com/singh-pratiksha/crypto-tracker-app/discussions)**  
 - Reach out to the maintainer **[@singh-pratiksha](https://github.com/singh-pratiksha)**  
 
 ---
 
 ## 👨‍💻 Maintainer & Contributors  
 
-This project is developed and maintained by **[Pratiksha Singh](https://github.com/pratikshasingh104)**.  
+This project is developed and maintained by **[Pratiksha Singh](https://github.com/singh-pratiksha)**.  
 
 👥 **Want to contribute?** Join us and help make Crypto Tracker even better!  
 
