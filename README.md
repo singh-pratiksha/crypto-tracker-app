@@ -74,7 +74,7 @@ If you encounter any issues or have suggestions:
 
 - Open an issue in the **[Issues](https://github.com/pratikshasingh104/crypto-tracker-app/issues)** section  
 - Discuss in the **[GitHub Discussions](https://github.com/pratikshasingh104/crypto-tracker-app/discussions)**  
-- Reach out to the maintainer **[@pratikshasingh104](https://github.com/pratikshasingh104)**  
+- Reach out to the maintainer **[@singh-pratiksha](https://github.com/singh-pratiksha)**  
 
 ---
 
