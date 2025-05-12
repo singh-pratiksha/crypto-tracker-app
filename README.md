@@ -5,7 +5,7 @@
 
 The **Crypto Tracker App** is a simple, user-friendly web application that provides real-time cryptocurrency price updates, market trends, and essential details. Built with **HTML, CSS, and JavaScript**, this app delivers a seamless experience for crypto enthusiasts.  
 
-🔗 **Live Demo:** [Crypto Tracker App][(https://singh-pratiksha.github.io/crypto-tracker-app/index.html)]
+🔗 **Live Demo:** [Crypto Tracker App](https://singh-pratiksha.github.io/crypto-tracker-app/index.html)
 
 ---  
 
