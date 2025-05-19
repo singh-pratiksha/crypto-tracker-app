@@ -7,7 +7,7 @@ The **Crypto Tracker App** is a simple, user-friendly web application that provi
 
 🔗 **Live Demo:** [Crypto Tracker App](https://singh-pratiksha.github.io/crypto-tracker-app/index.html)
 
----  
+--- 
 
 ## 🌟 Features  
 
@@ -41,7 +41,7 @@ cd crypto-tracker-app
 ```
 
 ### 🔹 Open `index.html` in Your Browser  
-No need to install dependencies! Just run the HTML file in a browser and start tracking cryptocurrencies.  
+You don't need to install dependencies! Just run the HTML file in a browser and start tracking cryptocurrencies.  
 
 ---
 
